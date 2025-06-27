@@ -1,3 +1,10 @@
+Name: Manvith Shetty
+Roll No: 23108A00A0019
+Serial No: 55
+EXCS-A
+CDAC Project
+
+
 # Personal Finance Management System
 
 A comprehensive REST API-based personal finance management system built with Flask, featuring expense tracking, budget management, and financial analytics.
